@@ -88,6 +88,15 @@ const questions = [
             {text: "MOSTTT FATTY IN THE WORLF!!", correct: true},
             {text: "avg fat ig", correct: false},
         ]
+    },
+    {
+        question: "what he like to read??",
+        answers: [
+            {text: "young adult english novel", correct: false},
+            {text: "filipino cartoons", correct: false},
+            {text: "chiense gay love story", correct: false},
+            {text: "weird japanese mango anime e book", correct: true},
+        ]
     }
 ];
 
