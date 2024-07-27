@@ -158,7 +158,7 @@ function selectAnswer(e){
     }
     else {
         selectedBtn.classList.add("incorrect");
-        let randomNum = Math.floor(Math.random() * 5)+1;
+        let randomNum = Math.floor(Math.random() * 15)+1;
         text.textContent = wrongTextFeedBack[randomNum];
         text.style.display = 'block';
 
