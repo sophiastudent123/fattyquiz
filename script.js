@@ -97,6 +97,15 @@ const questions = [
             {text: "chiense gay love story", correct: false},
             {text: "weird japanese mango anime e book", correct: true},
         ]
+    },
+    {
+        question: "what mobile game he plays",
+        answers: [
+            {text: "anime dragon ball z", correct: true},
+            {text: "roblox", correct: false},
+            {text: "movie star planet", correct: false},
+            {text: "hair salon 2", correct: false},
+        ]
     }
 ];
 
